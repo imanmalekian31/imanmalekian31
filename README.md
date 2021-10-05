@@ -1,6 +1,4 @@
-# 𝗛𝗲𝗹𝗹𝗼！👋
-
-**I'm [Iman](https://github.com/imanmalekian31)！I'm a FrontEnd Developer.**
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=000000&size=30&lines=Hey!+It's+Iman!+👋;I'm+a+Front+End+Developer)
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/Yaronzz)](https://twitter.com/malekianIman)
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?logo=Gmail&logoColor=white&link=mailto:yaronhuang@foxmail.com)](mailto:imanmalekian31@gmail.com)
@@ -69,9 +67,14 @@
 
 ## 🐱My Github stats:
 
-<div align="center">
+<div align = "center">
+  <img align="center" src= "https://github-profile-trophy.vercel.app/?username=imanmalekian31&theme=gruvbox&margin-w=10" />
+</div>
 
-![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=imanmalekian31&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
-<img width="415" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imanmalekian31&layout=compact&text_color=daf7dc&bg_color=151515">
+<div align="center" style="margin-top : 30px;">
+
+<img src="https://github-readme-stats.vercel.app/api?username=imanmalekian31&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=['stars']">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imanmalekian31&layout=compact&text_color=daf7dc&bg_color=151515">
 
 </div>
