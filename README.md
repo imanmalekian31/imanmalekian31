@@ -6,6 +6,8 @@
 [![Github Badge](https://img.shields.io/badge/-Github-232323?logo=Github&logoColor=white&link=https://space.bilibili.com/7708412)](https://github.com/imanmalekian31)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=imanmalekian31)
 
+<img align="right" style="margin:20px 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imanmalekian31&layout=compact&text_color=daf7dc&bg_color=151515">
+
 ## 🧐 About
 
 - 📫 How to reach me: imanmalekian31@gmail.com
@@ -69,12 +71,4 @@
 
 <div align = "center">
   <img align="center" src= "https://github-profile-trophy.vercel.app/?username=imanmalekian31&theme=gruvbox&margin-w=10" />
-</div>
-
-<div align="center" style="margin-top : 30px;">
-
-<img src="https://github-readme-stats.vercel.app/api?username=imanmalekian31&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=['stars']">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imanmalekian31&layout=compact&text_color=daf7dc&bg_color=151515">
-
 </div>
