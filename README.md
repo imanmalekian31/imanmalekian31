@@ -64,9 +64,6 @@
         <img src="https://img.shields.io/badge/GitHub-282C34?logo=GitHub" alt="GitHub" title="GitHub" height="25" />
         </code>
     </div>
-    <div>
-        <img  style="margin:20px 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imanmalekian31&layout=compact&text_color=daf7dc&bg_color=151515">
-    </div>
 
 ## 🐱My Github stats:
 
