@@ -25,6 +25,8 @@
         <img src="https://img.shields.io/badge/TypeScript-282C34?logo=TypeScript" alt="TypeScript" title="TypeScript" height="25" />
         </code>
         <code>
+        <img src="[https://img.shields.io/badge/Bootstrap-282C34?logo=Bootstrap](https://img.shields.io/badge/tailwindcss-282C34?logo=tailwindcss)" alt="Tailwindcss" title="Tailwindcss" height="25" />
+        </code>
         <img src="https://img.shields.io/badge/Bootstrap-282C34?logo=Bootstrap" alt="Bootstrap" title="Bootstrap" height="25" />
         </code>
         <code>
