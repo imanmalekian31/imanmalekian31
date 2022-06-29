@@ -64,9 +64,3 @@
         <img src="https://img.shields.io/badge/GitHub-282C34?logo=GitHub" alt="GitHub" title="GitHub" height="25" />
         </code>
     </div>
-
-## 🐱My Github stats:
-
-<div align = "center">
-  <img align="center" src= "https://github-profile-trophy.vercel.app/?username=imanmalekian31&theme=gruvbox&margin-w=10" />
-</div>
