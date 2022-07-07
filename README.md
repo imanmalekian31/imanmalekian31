@@ -49,10 +49,10 @@
         <img src="https://img.shields.io/badge/Svelte-282C34?logo=Svelte" alt="Svelte" title="Svelte" height="25" />
         </code>
         <code>
-        <img src="https://img.shields.io/badge/express-282C34?logo=express" alt="Express" title="Express" height="25" />
+        <img src="https://img.shields.io/badge/Express-282C34?logo=express" alt="Express" title="Express" height="25" />
         </code>
         <code>
-        <img src="https://img.shields.io/badge/mongodb-282C34?logo=mongodb" alt="MongoDb" title="MongoDb" height="25" />
+        <img src="https://img.shields.io/badge/MongoDb-282C34?logo=mongodb" alt="MongoDb" title="MongoDb" height="25" />
         </code>
         <code>
         <img src="https://img.shields.io/badge/Ubuntu-282C34?logo=Ubuntu" alt="Ubuntu" title="Ubuntu" height="25" />
