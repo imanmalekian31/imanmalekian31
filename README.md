@@ -52,7 +52,7 @@
         <img src="https://img.shields.io/badge/Express-282C34?logo=express" alt="Express" title="Express" height="25" />
         </code>
         <code>
-        <img src="https://img.shields.io/badge/MongoDb-282C34?logo=mongodb" alt="MongoDb" title="MongoDb" height="25" />
+        <img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb" alt="MongoDb" title="MongoDb" height="25" />
         </code>
         <code>
         <img src="https://img.shields.io/badge/Ubuntu-282C34?logo=Ubuntu" alt="Ubuntu" title="Ubuntu" height="25" />
