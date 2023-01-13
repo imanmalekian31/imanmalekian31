@@ -13,19 +13,15 @@
         <span>
         <img src="https://img.shields.io/badge/HTML5-282C34?logo=HTML5" alt="HTML5" title="HTML5" height="25" />
         </span>
-    
         <span>
         <img src="https://img.shields.io/badge/CSS3-282C34?logo=CSS3&logoColor=229EEB" alt="CSS3" title="CSS3" height="25" />
         </span>
-    
         <span>
         <img src="https://img.shields.io/badge/JavaScript-282C34?logo=JavaScript" alt="JavaScript" title="JavaScript" height="25" />
         </span>
-    
         <span>
         <img src="https://img.shields.io/badge/TypeScript-282C34?logo=TypeScript" alt="TypeScript" title="TypeScript" height="25" />
         </span>
-    
         <span>
         <img src="https://img.shields.io/badge/tailwindcss-282C34?logo=tailwindcss" alt="Tailwindcss" title="Tailwindcss" height="25" />
         </span>
