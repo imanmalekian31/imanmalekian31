@@ -74,6 +74,9 @@
         <span>
             <img src="https://img.shields.io/badge/Docker-282C34?logo=docker" alt="Docker" title="Docker" height="25" />
         </span>
+        <span>
+            <img src="https://img.shields.io/badge/Django-282C34?logo=Django" alt="Django" title="Django" height="25" />
+        </span>
     </div>
     
     [Would you like to buy me a coffee 😊](https://www.buymeacoffee.com/imanmalekian)
